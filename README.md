@@ -16,6 +16,6 @@ This repository contains a machine learning project that builds a Decision Tree 
 * **Data Visualization: Matplotlib, Seaborn, Graphviz (for tree visualization)
 
 ## Repository Structure
-dataset                 # Raw datasets for this project
-README.md               # Project documentation
-ipynbfile               # Python code and visualization outputs
+* dataset                 # Raw datasets for this project
+* README.md               # Project documentation
+* ipynbfile               # Python code and visualization outputs
